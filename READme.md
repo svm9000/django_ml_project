@@ -24,7 +24,7 @@ SQL_HOST=db
 
 4. Visit `http://localhost:8000` or `http://127.0.0.1:8000`
 
-`Note:` For understanding how the final *XGBoost* was decided/created, please see [Link](ml_app\main_app\static\models\create_model.ipynb)
+`Note:` For understanding how the final *XGBoost* was decided/created, please see [Link](ml_app/main_app/static/models/create_model.ipynb)
 
 Application screenshot below.
-![](ml_app\main_app\static\images\app_screenshot.PNG)
+![](ml_app/main_app/static/images/app_screenshot.PNG)
