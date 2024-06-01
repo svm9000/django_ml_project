@@ -1,0 +1,16 @@
+# configuration environnement 
+.env*
+devenv
+
+# Django 
+*.log
+.pot
+.pyc
+__pycache__
+migrations
+
+# Docker generated files/folder from config
+mysql
+
+# prod files
+staticfiles
